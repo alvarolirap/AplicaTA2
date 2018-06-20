@@ -1,0 +1,209 @@
+Epoch: 0
+
+Epoch 1/1
+63924/63924 [==============================] - 474s 7ms/step - loss: 2.2088
+Cound and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so and the said the said to sound and so 
+
+Epoch: 1
+
+Epoch 1/1
+63924/63924 [==============================] - 471s 7ms/step - loss: 1.6138
+quite the street of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of
+
+Epoch: 2
+
+Epoch 1/1
+63924/63924 [==============================] - 451s 7ms/step - loss: 1.4393
+he came to the same thing of the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countess were seen the countes
+
+Epoch: 3
+
+Epoch 1/1
+63924/63924 [==============================] - 460s 7ms/step - loss: 1.3598
+!" said the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound o
+
+Epoch: 4
+
+Epoch 1/1
+63924/63924 [==============================] - 475s 7ms/step - loss: 1.3131
+Just so that he would not see the soldier who was so beautiful to the soldier who was so beautiful to the soldier who was so beautiful to the soldier who was so beautiful to the soldier who was so beautiful to the soldier who had been sent to the soldier who was so much to see the soldier who was so beautiful to the soldier who was so beautiful to the soldier who was so beautiful to the soldier who was so beautiful to the soldier who had been sent to the soldier who had been sent to the soldier 
+
+Epoch: 5
+
+Epoch 1/1
+63924/63924 [==============================] - 512s 8ms/step - loss: 1.2811
+French army was a special position of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of the conversation of th
+
+Epoch: 6
+
+Epoch 1/1
+63924/63924 [==============================] - 509s 8ms/step - loss: 1.2570
+When they were the same time the same time the soldiers were to be all the same time the same time the soldiers were to be all the same time the same time the soldiers were to be all the same time the same time the soldiers were to be all the same time the same time the soldiers were to be all the same time the same time the soldiers were to be all the same time the same time the soldiers were to be all the same time the same time the soldiers were to be all the same time the same time the soldi
+
+Epoch: 7
+
+Epoch 1/1
+63924/63924 [==============================] - 487s 8ms/step - loss: 1.2376
+and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same t
+
+Epoch: 8
+
+Epoch 1/1
+63924/63924 [==============================] - 502s 8ms/step - loss: 1.2217
+ªted to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already 
+
+Epoch: 9
+
+Epoch 1/1
+63924/63924 [==============================] - 489s 8ms/step - loss: 1.2079
+(a story of the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the count and the same time the count was so as to the co
+
+Epoch: 10
+
+Epoch 1/1
+63924/63924 [==============================] - 499s 8ms/step - loss: 1.1963
+y the same time the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the sound of the
+
+Epoch: 11
+
+Epoch 1/1
+63924/63924 [==============================] - 512s 8ms/step - loss: 1.1852
+f the streets and the same time and the same time he was always strong and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength and strength 
+
+Epoch: 12
+
+Epoch 1/1
+63924/63924 [==============================] - 489s 8ms/step - loss: 1.1755
+ut the soldiers and the same time the soldiers were being sent to his head and went to the countess and the same time the soldiers and the same time the soldiers were being sent to his head and went to the countess and the same time the soldiers and the same time the soldiers were being sent to his head and went to the countess and the same time the soldiers and the same time the soldiers were being sent to his head and went to the countess and the same time the soldiers and the same time the so
+
+Epoch: 13
+
+Epoch 1/1
+63924/63924 [==============================] - 473s 7ms/step - loss: 1.1665
+One can she want to see her and the countess who had been sent to the commander of the staff officer who had been sent to the commander of the staff officer who had been sent to the commander of the staff officer who had been sent to the commander of the staff officer who had been sent to the commander of the staff officer who had been sent to the commander of the staff officer who had been sent to the commander of the staff officer who had been sent to the commander of the staff officer who had
+
+Epoch: 14
+
+Epoch 1/1
+63924/63924 [==============================] - 507s 8ms/step - loss: 1.1585
+been to the countess and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the same time and the sam
+
+Epoch: 15
+
+Epoch 1/1
+63924/63924 [==============================] - 477s 7ms/step - loss: 1.1512
+n the third company and the count was still and then to the commander-in-chief was still the same thing and the count was still and then to the commander-in-chief was still the same thing and the count was still and then to the commander-in-chief was still the same thing and the count was still and then to the commander-in-chief was still the same thing and the count was still and then to the commander-in-chief was still the same thing and the count was still and then to the commander-in-chief w
+
+Epoch: 16
+
+Epoch 1/1
+63924/63924 [==============================] - 500s 8ms/step - loss: 1.1442
+just the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and th
+
+Epoch: 17
+
+Epoch 1/1
+63924/63924 [==============================] - 493s 8ms/step - loss: 1.1375
+justice of the staff officer who was still looking at him and said that he was about to do so. And the same thing he had not seen at the same time and said that the countess was sitting at the same time and said that the countess was sitting at the same time and said that the countess was sitting at the same time and said that the countess was sitting at the same time and said that the countess was sitting at the same time and said that the countess was sitting at the same time and said that the
+
+Epoch: 18
+
+Epoch 1/1
+63924/63924 [==============================] - 505s 8ms/step - loss: 1.1311
+; the same time and the same time and the same time and saw the man who had been as if they were all the same thing to do so. It was a long time for the first time the count was so far as the same time and said that the more the count was so far as the more the man who was saying to him and the same time and saw the man who had been as if they were all the same thing to do so. It was a long time for the first time the count was so far as the same time and said that the more the count was so far 
+
+Epoch: 19
+
+Epoch 1/1
+63924/63924 [==============================] - 488s 8ms/step - loss: 1.1252
+. The old countess was a strange face and the same time and the same time and the same time she had not seen and the countess' house and the same time silently and straight into the drawing room to and the countess and the same time and the same time and the same time she had not seen and the countess' house and the same time silently and straight into the drawing room to and the countess and the same time and the same time and the same time she had not seen and the countess' house and the same 
+
+Epoch: 20
+
+Epoch 1/1
+63924/63924 [==============================] - 495s 8ms/step - loss: 1.1198
+joined in the same way that he was always should be so strong that the soldiers and the same time he had been so strange and saw the soldiers and the same time he had been so strange and saw the soldiers and the same time he had been so strange and saw the soldiers and the same time he had been so strange and saw the soldiers and the same time he had been so strange and saw the soldiers and the same time he had been so strange and saw the soldiers and the same time he had been so strange and saw
+
+Epoch: 21
+
+Epoch 1/1
+63924/63924 [==============================] - 479s 7ms/step - loss: 1.1145
+Kutuzov to the sight of the staff officers and the same time and the same time and the staff officer who had been the same time and the same time and the staff officer who had been the same time and the same time and the staff officer who had been the same time and the same time and the staff officer who had been the same time and the same time and the staff officer who had been the same time and the same time and the staff officer who had been the same time and the same time and the staff offic
+
+Epoch: 22
+
+Epoch 1/1
+63924/63924 [==============================] - 502s 8ms/step - loss: 1.1095
+» the countess had been so clear to him and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sit
+
+Epoch: 23
+
+Epoch 1/1
+63924/63924 [==============================] - 494s 8ms/step - loss: 1.1046
+6 the countess was sitting in the same way to the countess. He was already and was sitting in the same way to the countess. The count said the countess and the countess and the countess and the same thing that he was already been sent for him to be a man who had seemed to be a man who had seemed to be a man who had seemed to be a man who had seemed to be a man who had seemed to be a man who had seemed to be a man who had seemed to be a man who had seemed to be a man who had seemed to be a man wh
+
+Epoch: 24
+
+Epoch 1/1
+63924/63924 [==============================] - 505s 8ms/step - loss: 1.0999
+And the countess was sitting on the staff officer and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the countess and the 
+
+Epoch: 25
+
+Epoch 1/1
+63924/63924 [==============================] - 485s 8ms/step - loss: 1.0955
+Go away! And what about your mother's health!" said the countess.
+
+"What a strange man was the matter with the princess and the countess' house and the countess was all the same things and the same time and the same thing as if in a state of the countess and the same thing as if in a state of the countess and the same thing as if in a state of the countess and the same thing as if she had not seen her for the first time to the countess and the same thing as if she had not seen her for the first 
+
+Epoch: 26
+
+Epoch 1/1
+63924/63924 [==============================] - 493s 8ms/step - loss: 1.0914
+ment of the commander-in-chief was a strange and strength and the conversation with a smile to the commander in chief and the conversation with a smile to the commander in chief and the conversation with a smile to the commander in chief and the conversation with a smile to the commander in chief and the conversation with a smile to the commander in chief and the conversation with a smile to the commander in chief and the conversation with a smile to the commander in chief and the conversation w
+
+Epoch: 27
+
+Epoch 1/1
+63924/63924 [==============================] - 481s 8ms/step - loss: 1.0873
+She was a strange and a short study as the son of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the so
+
+Epoch: 28
+
+Epoch 1/1
+63924/63924 [==============================] - 506s 8ms/step - loss: 1.0834
+the countess was as if they were all that had been the same to him. He was as if they were all that had been the same to him. He was as if they were all that had been the same to him. He was as if they were all that had been the same to him. He was as if they were all that had been the same to him. He was as if they were all that had been the same to him. He was as if they were all that had been the same to him. He was as if they were all that had been the same to him. He was as if they were all
+
+Epoch: 29
+
+Epoch 1/1
+63924/63924 [==============================] - 480s 8ms/step - loss: 1.0797
+= the same time the soldiers of the count's house and the same thing to do so.
+
+"You are to be a man who do not know the whole body to the peasants who has been to the count's house. The count was a strange face and the same thing to do so.
+
+"You are to be a man who do not know the whole body to the peasants who has been to the count's house. The count was a strange face and the same thing to do so.
+
+"You are to be a man who do not know the whole body to the peasants who has been to the count's 
+
+Epoch: 30
+
+Epoch 1/1
+63924/63924 [==============================] - 485s 8ms/step - loss: 1.0761
+She was sitting in the same way the conversation with a smile.
+
+"Why do you say that the countess was so much to be a man who was not a soldier with a smile.
+
+"Why do you say that the countess was so much to be a man who was not a soldier with a smile.
+
+"Why do you say that the countess was so much to be a man who was not a soldier with a smile.
+
+"Why do you say that the countess was so much to be a man who was not a soldier with a smile.
+
+"Why do you say that the countess was so much to be a ma
+
+Epoch: 31
+
+Epoch 1/1
+63924/63924 [==============================] - 492s 8ms/step - loss: 1.0726
+ked at her and her beautiful eyes glittering as if he were sent to the sound of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the 
