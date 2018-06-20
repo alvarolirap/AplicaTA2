@@ -50,7 +50,7 @@ Epoch: 8
 
 Epoch 1/1
 63924/63924 [==============================] - 502s 8ms/step - loss: 1.2217
-�ted to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already 
+�ted to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already to the countess who were already 
 
 Epoch: 9
 
@@ -134,7 +134,7 @@ Epoch: 22
 
 Epoch 1/1
 63924/63924 [==============================] - 502s 8ms/step - loss: 1.1095
-� the countess had been so clear to him and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sit
+� the countess had been so clear to him and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sitting at the countess that had been sent to his son whom he had been at the same time and the countess was sit
 
 Epoch: 23
 
@@ -207,3 +207,339 @@ Epoch: 31
 Epoch 1/1
 63924/63924 [==============================] - 492s 8ms/step - loss: 1.0726
 ked at her and her beautiful eyes glittering as if he were sent to the sound of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the soldiers of the 
+
+Epoch: 32
+
+Epoch 1/1
+63924/63924 [==============================] - 495s 8ms/step - loss: 1.0694
+Uncle's" return to the commander of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the streets and the same time the soldiers of the 
+
+Epoch: 33
+
+Epoch 1/1
+63924/63924 [==============================] - 505s 8ms/step - loss: 1.0661
+join in the distance of the door and the sound of the country of the contrary, the sound of the country of the commander-in-chief was the same thing was conscious of the conversation in the same way that the sole of the soldiers of the conversation in the same way that the sole of the soldiers of the conversation in the same way that the sole of the soldiers of the conversation in the same way that the sole of the soldiers of the conversation in the same way that the sole of the soldiers of the 
+
+Epoch: 34
+
+Epoch 1/1
+63924/63924 [==============================] - 486s 8ms/step - loss: 1.0632
+ze the countess, and the count was standing on the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff officer of the staff of
+
+Epoch: 35
+
+Epoch 1/1
+63924/63924 [==============================] - 472s 7ms/step - loss: 1.0602
+?" asked Pierre.
+
+"What is the matter with your honor!" and the countess was so strong and was still the same time the countess and the same streets and the same street of the suite and the street was standing by the streets to the sound of the commander-in-chief was still stretched his shoulders and stretched his shoulders and stretched his shoulders and stretched his shoulders and stretched his shoulders and stretched his shoulders and stretched his shoulders and stretched his shoulders and st
+
+Epoch: 36
+
+Epoch 1/1
+63924/63924 [==============================] - 486s 8ms/step - loss: 1.0571
+Natasha seemed to him a moment. "I was all right, and there is no more intimate friends, and the soldiers in the same way that it is not a single man."
+
+"I don't know what you would not be all the same thing. I won't go to the countess' door was a man who was not at all and did not like to see him and the same thing is the only thing of the countess and the count with a smile of destroy the country house on the strength of the contrary, the count was a man who was not at all and did not like to 
+
+Epoch: 37
+
+Epoch 1/1
+63924/63924 [==============================] - 470s 7ms/step - loss: 1.0547
+ing the street was standing by the stalls and the soldiers who were sitting and shouting and shouting and shook his head and said to him and said to him.
+
+"What do you think of the day of the things and the state of things and the state of this interests of the country and the soldiers who were sitting on the staff of the commander in chief and the same time the soldiers who were sitting in the same way the soldiers who were sitting and shouting and shouting and shouting and shook his head and s
+
+Epoch: 38
+
+Epoch 1/1
+63924/63924 [==============================] - 476s 7ms/step - loss: 1.0520
+7 the soldiers started and the sound of a strange and the same thing the princess and the sound of the suite who had been the same thing the fate of the princess and the sound of the suite who had been the same thing the fate of the princess and the sound of the suite who had been the same thing the fate of the princess and the sound of the suite who had been the same thing the fate of the princess and the sound of the suite who had been the same thing the fate of the princess and the sound of t
+
+Epoch: 39
+
+Epoch 1/1
+63924/63924 [==============================] - 478s 7ms/step - loss: 1.0494
+Andrew with a smile of the street. "What a splendid reign of the countess' house with a smile of the soldiers of the country house on the staff officer who was saying to him and then all the same things the countess in the same way the countess and the same strength and the staff officer who was saying to him and then all the same things the countess in the same way the countess and the same strength and the staff officer who was saying to him and then all the same things the countess in the sam
+
+Epoch: 40
+
+Epoch 1/1
+63924/63924 [==============================] - 473s 7ms/step - loss: 1.0470
+Yes, yes, I know that the man who says it is all very well?" thought Prince Andrew, "and that it was not a soldier with a sigh of the contrary it was a man of life and the same to me that the man who had stayed in the same way that the soldiers of the streets to the soldiers and the same thing as the strange and stern but the same time and said that the commander-in-chief was as conditions of the campaign of 1812 for the first time the sound of the soldiers and the same time as if the same time 
+
+Epoch: 41
+
+Epoch 1/1
+63924/63924 [==============================] - 476s 7ms/step - loss: 1.0445
+The count had been sent to the count and his son whom he had not seen them to say that the count was not seen in the forest and still less any of them and the count was a great deal were all the same feelings which had not yet as commander-in-chief was already been sent to the count and his son whom he had not seen them to say that the count was not seen in the forest and still less any of them and the count was a great deal were all the same feelings which had not yet as commander-in-chief was 
+
+Epoch: 42
+
+Epoch 1/1
+63924/63924 [==============================] - 509s 8ms/step - loss: 1.0423
+Count Rostov had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the count had been told that the 
+
+Epoch: 43
+
+Epoch 1/1
+63924/63924 [==============================] - 469s 7ms/step - loss: 1.0400
+'s attention to the devil to be an order to adore and the state of the commander-in-chief was standing at the same time and drove up to the door and the stranger and strangely and sternly and stepping over the day before him with his hand and saw that the countess had been sent to the soldiers who were all that he was saying to him and had said that the countess had been sent to the soldiers who were all that he was saying to him and had said that the countess had been sent to the soldiers who w
+
+Epoch: 44
+
+Epoch 1/1
+63924/63924 [==============================] - 466s 7ms/step - loss: 1.0380
+; but he was a stir among the movement of the Russian army was already serving in her hands.
+
+"Well, good-by, Countess Mary and the countess and the same thing was already been sent to the countess and the same thing as the staff officer on the first man who was always the same time and said that he was a stir as the countess and the same thing as the staff officer on the first man who was always the same time and said that he was a stir as the countess and the same thing as the staff officer on
+
+Epoch: 45
+
+Epoch 1/1
+63924/63924 [==============================] - 469s 7ms/step - loss: 1.0358
+s and the consequence of the conception of the contrary, the countess was stronger that he was strange to him that he was saying to her husband and the count and the strength of the contrary, the conversation was described to him and the count and the strength of the contrary, the conversation was described to him and the count and the strength of the contrary, the conversation was described to him and the count and the strength of the contrary, the conversation was described to him and the coun
+
+Epoch: 46
+
+Epoch 1/1
+63924/63924 [==============================] - 477s 7ms/step - loss: 1.0338
+1807, were standing before him and the same street they were all as if he were at the same time and the same street with his head and the same spring of the contrary, the sound of the princesses was a significant and sat down by the sofa. Only the men were standing before him and the same street they were all as if he were at the same time and the same street with his head and the same spring of the contrary, the sound of the princesses was a significant and sat down by the sofa. Only the men we
+
+Epoch: 47
+
+Epoch 1/1
+63924/63924 [==============================] - 469s 7ms/step - loss: 1.0321
+4Vjet, and the Emperor was the same thing and see the man who had been sent to the country house on the staff of the commander-in-chief of the commander-in-chief was the same thing as the son is the same thing as the strength of the commander-in-chief of the commander-in-chief was the same thing as the son is the same thing as the strength of the commander-in-chief of the commander-in-chief was the same thing as the son is the same thing as the strength of the commander-in-chief of the commander
+
+Epoch: 48
+
+Epoch 1/1
+63924/63924 [==============================] - 462s 7ms/step - loss: 1.0302
+and the countess was a stout man with a smile that he was always strong and that he was always saying:
+
+"I have not seen them to see him and that is the matter with you? What does it matter to the countess, when I was not a single brown and the countess," said the countess.
+
+"Why are you staying in the morning of the Emperor Alexander," said the countess.
+
+"Why are you staying in the morning of the Emperor Alexander," said the countess.
+
+"Why are you staying in the morning of the Emperor Alexand
+
+Epoch: 49
+
+Epoch 1/1
+63924/63924 [==============================] - 463s 7ms/step - loss: 1.0282
+!" said the countess, with a smile of despair, sat down on the sofa and then and was still stood and all the same things in the same way. The old prince had been received and then and when he had been to be the only person to the sound of the countess and the countess and the countess and the countess and the countess and the countess and the countess and then the countess and the countess and the countess and the countess and then the countess and the countess and the countess and then to the d
+
+Epoch: 50
+
+Epoch 1/1
+63924/63924 [==============================] - 468s 7ms/step - loss: 1.0267
+e the count was a man of genius to be an order to see him and the count to see him and the count to see him and so on. The count suddenly finds most delightful and confusion and regard to his son had been sent to the count and his son had been sent to the count and his son had been sent to the count and his son had been sent to the count and his son had been sent to the count and his son had been sent to the count and his son had been sent to the count and his son had been sent to the count and 
+
+Epoch: 51
+
+Epoch 1/1
+63924/63924 [==============================] - 463s 7ms/step - loss: 1.0250
+xpression whether he was so stronger and serious and state of the commander-in-chief's staff and the count was a stranger and stores, and the count was a straight thrown on the sofa. He was a straight there was a stout position where the count had been sent to the count, and the count was a proceded and strength of his house the sound of the country house on the streets of the soldiers that he was asked about the prince's division was the count and the countess was still at the same time and the
+
+Epoch: 52
+
+Epoch 1/1
+63924/63924 [==============================] - 470s 7ms/step - loss: 1.0233
+One can do that said the old man who was already sinning the conversation with the same smile.
+
+"Where are you going? I know you wish to see him and the count was a second and artillery officers and the count and men who were all the same thing to do and have a pleasure of it!" he shouted and said:
+
+"I don't understand the words to the Emperor."
+
+"I know you are not at all as the fact that the old man is not a single month. I was there in the morning, but the count was a serious to speak to him 
+
+Epoch: 53
+
+Epoch 1/1
+63924/63924 [==============================] - 460s 7ms/step - loss: 1.0218
+e of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of the commander of th
+
+Epoch: 54
+
+Epoch 1/1
+63924/63924 [==============================] - 459s 7ms/step - loss: 1.0201
+= Julie's men and the expression of a man who was still sitting at the door and the study to the drawing room with his hand to his heart and asked him to say that he had not seen him and the same stern springling and something to the countess) who had been an army of the country were at the same time and the study and the staff of the house and at the same time and the study to the drawing room with his hand to his heart and asked him to say that he had not seen him and the same stern springling
+
+Epoch: 55
+
+Epoch 1/1
+63924/63924 [==============================] - 460s 7ms/step - loss: 1.0185
+: "Yes, that is the matter?" asked Pierre.
+
+"I am sorry for your sake then, your excellency!" said the countess, "and he is a fine fellow, I shall never be a battle and there was no one and the countess, your excellency," said the countess, "and he is a fine fellow, I shall never be a battle and there was no one and the countess, your excellency," said the countess, "and he is a fine fellow, I shall never be a battle and there was no one and the countess, your excellency," said the countess, "an
+
+Epoch: 56
+
+Epoch 1/1
+63924/63924 [==============================] - 460s 7ms/step - loss: 1.0172
+¿justify the tramp of the commander-in-chief of the commander-in-chief's staff, and the same face was disconcerted. As soon as the soldiers sat up and down the room.
+
+"I said the one he went on!" he shouted to the door and the sound of the commander-in-chief (the soldiers saw the door of the room.
+
+"I saw the count has been a moment. I can't do it at all at once and the countess."
+
+"Oh, how did you get the father who has been the same thing is the cause of the commander-in-chief's suite. A dance
+
+Epoch: 57
+
+Epoch 1/1
+63924/63924 [==============================] - 458s 7ms/step - loss: 1.0159
+Lazarev, who had been sent to the countess' rooms, when he had been able to go away from the commissariat departments and the same thing as the stranger sat in the same way and the same thing as the stranger sat in the same way and the same thing as the stranger sat in the same way and the same thing as the stranger sat in the same way and the same thing as the stranger sat in the same way and the same thing as the stranger sat in the same way and the same thing as the stranger sat in the same w
+
+Epoch: 58
+
+Epoch 1/1
+63924/63924 [==============================] - 459s 7ms/step - loss: 1.0145
+Uncle's" longer and moved and stretched his legs and the same thing as the soldiers of the conversation and was standing on the staff of the committeemen only the same thing and the same thing to her husband and especially that he was already attending to him that he was as if the soldiers of the conversation and was standing on the staff of the committeemen only the same thing and the same thing to her husband and especially that he was already attending to him that he was as if the soldiers of
+
+Epoch: 59
+
+Epoch 1/1
+63924/63924 [==============================] - 459s 7ms/step - loss: 1.0131
+ke a man who was still the same at the same time she had not seen him since the same time he had seen and a small bono brought back to his study. He was still the same at the same time she had not seen him since the same time he had seen and a small bono brought back to his study. He was still the same at the same time she had not seen him since the same time he had seen and a small bono brought back to his study. He was still the same at the same time she had not seen him since the same time he
+
+Epoch: 60
+
+Epoch 1/1
+63924/63924 [==============================] - 460s 7ms/step - loss: 1.0118
+ªte at the same time and the soldiers of the country in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in the same way that the countess in th
+
+Epoch: 61
+
+Epoch 1/1
+63924/63924 [==============================] - 460s 7ms/step - loss: 1.0106
+On the contrary, the count was a good thing that had been sent to the count and moved away from the table. He was sitting in the drawing room. The old prince was silent and then to say to him and asked him to say to him and was still the same things about Kutuzov, and the count was at the same time and the count was a good thing and the count and his son to himself, and the same thing he had been so good as to a man who had been sent to the count and moved away from the table. He was sitting in 
+
+Epoch: 62
+
+Epoch 1/1
+63924/63924 [==============================] - 459s 7ms/step - loss: 1.0094
+/y he had not been able to reach the strange conflicts of the commander-in-chief in the same way, the strange consciousness of the commander-in-chief is already behind the countess. The countess was sitting at the commander-in-chief was to be seen in the same position of the commander-in-chief in the carts that had been so clear and conscious of the commander-in-chief is already becoming in the country de Tolly, which he had seen and at the same time for the first time the strange and simple and
+
+Epoch: 63
+
+Epoch 1/1
+63924/63924 [==============================] - 460s 7ms/step - loss: 1.0085
+me to the commander-in-chief. "If you want to come out at the countess' relations with the princess and the count to remain in the morning and the count and his wife who had been sent to the count and had to be of the conversation with the same thing as he had been an order to remain with him to see him and the count was as if she had not the commander of the staff of the commander of the room with a smile that he would be able to remember the countess and the count to her father and mother, and
+
+Epoch: 64
+
+Epoch 1/1
+63924/63924 [==============================] - 456s 7ms/step - loss: 1.0074
+; but he did not see the countess was so delighted to see him and the same as the same thing and the same as the Emperor and the countess was so fasting and seeming not to be a passionate and ascending the princesses, and the count was at the same time and did not see him and did not answer the conversation and was standing by the same way that she was not at all asked: the old prince had been preparing to reply to the count and mouth to his face and anger and said something in the same way that
+
+Epoch: 65
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 1.0064
+ïjeak the field of battle and the strange conversation with a smile of defending the manifestations of the collar that at the same time the countess in the face of the street.
+
+The countess in the same way the laws of the commander in chief. The old prince had a silent while the sick man was saying that the commander of the commanders and the strangelent for a long time he was about to be an unpleasant town. The countess went to the door of the street. The countess in the face of the princess an
+
+Epoch: 66
+
+Epoch 1/1
+63924/63924 [==============================] - 456s 7ms/step - loss: 1.0054
+re the count and experienced at the commander of the campfires, and the same thing and the same thing and the same thing and she would have said this and the consequent campaign with the same smile on his face and said it was a man of late at the same time and said something to him. He was sitting at the staff officer in the morning as to what he had said and seemed to him that the commander of the countess sent to the conception of the campaign that the count was a good thing and the same thing
+
+Epoch: 67
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 1.0042
+. The old prince was at the same time and a stout man who had come to the count and the street was about to contradict themselves to him that the count was the same thing and the street was already and all the same things to the state of the campaign of 1812 and the conversation was about to get away as quickly as possible. The count started the count and laughter to him, and then the count was a stranger and a state of things there was a stout man who stood before him to reply to the count and 
+
+Epoch: 68
+
+Epoch 1/1
+63924/63924 [==============================] - 455s 7ms/step - loss: 1.0031
+9 (the countess was a stir as the count was as impossible for the first time the streets to get away as quickly as possible. The countess went on to the count's anxious and sat down on a sofa in his soul. He felt that the count was a stranger, and the same state of the commander-in-chief's staff, and the same thing to do so.
+
+"You know they are all my eyes, and the count was as impossible:
+
+"Why did you believe in the manifestations of the truth."
+
+"Oh, don't see it and I am so simplicited! You 
+
+Epoch: 69
+
+Epoch 1/1
+63924/63924 [==============================] - 456s 7ms/step - loss: 1.0023
+When they were all the same this the man who says that this was the cause of the people and the countess was so plain that this was the cause of the people and the countess was so plain that this was the cause of the people and the countess was so plain that this was the cause of the people and the countess was so plain that this was the cause of the people and the countess was so plain that this was the cause of the people and the countess was so plain that this was the cause of the people and 
+
+Epoch: 70
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 1.0015
+!" he said, and gazed at her sisters, and then to him that the commanders of command, and the count was reading the line of command to the country and the same thing as the stranger sat down at the countess' eyes, and the count and Sonya and the count was reading the line of command, and the count was reading the line of command to the country and the same thing as the stranger sat down at the countess' eyes, and the count and Sonya and the count was reading the line of command, and the count wa
+
+Epoch: 71
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 1.0006
+© Cossack who had been taken on the old prince), "but the count was a strange to speak to him and that the commander of the commissariat of a perfection of the commander-in-chief was to be sent to the conversation to the other way for the first time the soldiers of the commissariat of a perfection of the committee Princess Mary was already strained to the sound of the commander in chief and the contemptuous smiles of the campaign of 1812 the thought that he was asked to be a man of life and the 
+
+Epoch: 72
+
+Epoch 1/1
+63924/63924 [==============================] - 456s 7ms/step - loss: 0.9996
+quietly and took his hand to the soldiers and without any reason to find the form of his soul and the count with a smile of despairing--as if she had seen as he was still stronger than a man who was sitting in the same place and the sound of the principal expression of his dissatisfaction with the same smile on his lips and shook his head and said:
+
+"Andrew, what a divine instance of the principal Army of Weyrother, and I shall not have been the same thing!" said the countess.
+
+"Yes, yes, of cou
+
+Epoch: 73
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 0.9987
+the commander of the staff of the commanders and the sound of the death of Count Bezukhov had to have a footman who had been sent to the commander of the staff. The moment of the commander of the story of the commanders of the commanders and the countess and the countess and the steward met at the staff of the army which he had seen and the same way than the old prince was as she stood in a tone of smoke. The soldiers were stronger than the commanders and shouted "Hurrah!" and she seemed to be a
+
+Epoch: 74
+
+Epoch 1/1
+63924/63924 [==============================] - 456s 7ms/step - loss: 0.9978
+9 (the countess was the same thing. He was a stranger and straight there and the constant which was a stick of the camp, the soldiers who were saying to the countess, and the count was a man of honor and the people who had been sent to the conclusion that the French were still more than any of them the commander of the contradiction, and the man who had come to the conclusion that had been sent to the conclusion that had been sent to the conclusion that the French were still more than any of the
+
+Epoch: 75
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 0.9972
+  had to be done at the count and the countess' health, and the countess was a stout position of the movement of the movement of the people of the battle of Borodino and the country were the cause of the people of September, the countess was so full on the contrary to the first contrary, the countess and the countess, who had been sent to the porch. It was a man who was sitting in the same way that the countess was a stout position in the same way that he was asked where he was still sitting abo
+
+Epoch: 76
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 0.9964
+6 On the third day all the same the men were sitting on a sofa before her brother and the count was as if she had been so strange to be seen in the middle of the room.
+
+"It would be a girls and my daughter's death of the count's all of you all about it all the same to me?" he asked them to the count, and then to him sat down again as she had a stout man with a smile of life in the middle of the room.
+
+"It's not the commander-in-chief?" he said, and said to him: "I love you more than any of you, 
+
+Epoch: 77
+
+Epoch 1/1
+63924/63924 [==============================] - 457s 7ms/step - loss: 0.9956
+3) Sunday and said something to him and was about to say to him and had been to be seen. But when he had to do with the countess, and the count and the same sport she had said and went out of the room.
+
+"Mamma, don't see that this is a moment of my brother with you? It is not to love your last part of the commissary activity of the campaign and the countess, and that if he had not been able to do anything of the commander-in-chief. He was silent and said something to him and was about to say to 
+
+Epoch: 78
+
+Epoch 1/1
+63924/63924 [==============================] - 456s 7ms/step - loss: 0.9949
+What was the same to me that I should be a child?" said the countess, "but I do not know the count and the same as to the Governor's," he added, turning to his study. "And who is it of me? She is the same as to the Governor's," he added, turning to his study. "And who is it of me? She is the same as to the Governor's," he added, turning to his study. "And who is it of me? She is the same as to the Governor's," he added, turning to his study. "And who is it of me? She is the same as to the Govern
+
+Epoch: 79
+
+Epoch 1/1
+63924/63924 [==============================] - 459s 7ms/step - loss: 0.9941
+ke a man who says that the commander-in-chief) to the left flank of the ballroom and the strength of his head and the sound of a series of victories and the shouting and the shouting of the country house when he had a long time (it was a man of late at the beginning of the campaign that had been sent to the possibility of his own accordaze and the countess and the streets of his face and the shouts of the committees of the commander-in-chief's soul. And the count was already at the beginning of 
